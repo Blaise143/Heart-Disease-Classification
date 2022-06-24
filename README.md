@@ -8,7 +8,7 @@ This project has interactive charts that do not show up on github. To view this 
 - Data preprocessing in preparation for modelling
 - Machine learning modelling with Support Vector Machines and Random Forest
 - Model Evaluation
-
+ 
 ## How to recreate this project:
 - Install dependencies namely : `Pandas`, `sklearn`, `numpy`, `Altair`
 - Clone or Download this repository and open it in a preffered IDE (I preffer Jupyter Notebooks with Anaconda)
