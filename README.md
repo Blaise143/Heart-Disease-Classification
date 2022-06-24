@@ -13,5 +13,5 @@ This project has interactive charts that do not show up on github. To view this 
 - Install dependencies namely : `Pandas`, `sklearn`, `numpy`, `Altair`
 - Clone or Download this repository and open it in a preffered IDE (I preffer Jupyter Notebooks with Anaconda)
 - Open the `Analysis.ipynb` file and run the cells 
-
+ 
 # Happy Coding!!!!!!
