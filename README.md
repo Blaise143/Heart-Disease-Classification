@@ -1,4 +1,4 @@
-# Heart-Disease-Classification
+# Heart Disease Classification
 In this project, I used different machine learning algorithms to on health data to come up with a model that can predict a heart disease subtype given data.
 ### Note: 
 This project has interactive charts that do not show up on github. To view the nice rendering of the notebook, click [here](https://nbviewer.org/github/Blaise143/Heart-Disease-Classification/blob/main/Analysis.ipynb) or clone this repository and run the project on your local computer.
